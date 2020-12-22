@@ -76,6 +76,7 @@ class Home extends StatelessWidget {
           ),
         ),
         FbStatus(),
+        FbStatus(),
       ],
     );
   }
